@@ -1,0 +1,13 @@
+bfh:
+  user:
+    name: "Vikas J V"
+    regNo: "U25UV22T064063"
+    email: "vikasjv@gmail.com"
+  endpoints:
+    generate: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+    fallbackSubmit: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+
+logging:
+  level:
+    root: INFO
+    com.example.bfh: DEBUG
